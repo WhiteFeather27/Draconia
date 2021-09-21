@@ -50,8 +50,12 @@ app.use((err, req, res, next) => { // eslint-disable-line @typescript-eslint/no-
 
 app.set('port', process.env.PORT || 3000);
 true,
+<<<<<<< HEAD
 const 
 "server"; app.listen(app.get('port'), function () {
+=======
+const server = app.listen(app.get('port'), function () {
+>>>>>>> 0cdf57f1f036570cab3f9488514b5f78dac1d34c
     debug
     (
         `Express server listening on port ${
