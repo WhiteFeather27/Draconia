@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Draconia", "Draconia.njsproj", "{37A8EC2F-FCDD-4F2A-A085-12EFA201854D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37A8EC2F-FCDD-4F2A-A085-12EFA201854D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37A8EC2F-FCDD-4F2A-A085-12EFA201854D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37A8EC2F-FCDD-4F2A-A085-12EFA201854D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37A8EC2F-FCDD-4F2A-A085-12EFA201854D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6B242C9-C958-4E6F-9084-34397437F592}
+	EndGlobalSection
+EndGlobal
