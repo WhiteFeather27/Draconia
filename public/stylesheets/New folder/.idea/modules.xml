@@ -19,3 +19,31 @@ string public constant name = "Dragon Coin";
 string public constant symbol = "DGN";
 uint8 public constant decimals = 0.0000000000000000000001;
 }
+
+{
+"name": "draconian-dollar",
+"version": "1.0.3",
+"description": "Cryptocurrency",
+"main": "truffle-config.js",
+"directories": {
+"test": "test"
+},
+"scripts": {
+"test": "npm draconian"
+},
+"repository": {
+"type": "git",
+"url": "git+https://github.com/WhiteFeather27/Draconia.git"
+},
+"keywords": [
+"dragon",
+"coin",
+"cryptocurrency"
+],
+"author": "Nirvana Lifestyle Inc",
+"license": "MIT",
+"bugs": {
+"url": "https://github.com/WhiteFeather27/Draconia/issues"
+},
+"homepage": "https://github.com/WhiteFeather27/Draconia#readme"
+}
