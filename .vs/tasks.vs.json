@@ -2,9 +2,38 @@
   "version": "0.2.1",
   "tasks": [
     {
-      "taskLabel": "task-Draconia",
       "appliesTo": "Draconia.njsproj",
+      "taskLabel": "task-Draconia",
       "type": "msbuild"
-    }
+    },
+    {
+      "appliesTo": "public/stylesheets/main.css",
+      "author": "Nirvana Lifestyle Inc",
+      "bugs": {
+        "url": "https://github.com/WhiteFeather27/Draconia/issues"
+      },
+      "description": "Cryptocurrency",
+      "directories": {
+        "test": "test"
+      },
+      "homepage": "https://github.com/WhiteFeather27/Draconia#readme",
+      "keywords": [
+        "dragon",
+        "coin",
+        "cryptocurrency"
+      ],
+      "license": "MIT",
+      "main": "truffle-config.js",
+      "name": "draconian-dollar",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/WhiteFeather27/Draconia.git"
+      },
+      "scripts": {
+        "test": "npm draconian"
+      },
+      "taskLabel": "task-main",
+      "type": "launch",
+    },
   ]
 }
